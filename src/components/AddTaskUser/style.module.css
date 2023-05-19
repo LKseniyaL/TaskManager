@@ -1,0 +1,33 @@
+.add_task{
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px 0 30px 0;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #0984e3;
+}
+.add_task input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.add_task select{
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: gray;
+    cursor: pointer;
+}
+.add_task button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: #0984e3;
+}

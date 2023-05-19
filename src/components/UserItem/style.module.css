@@ -1,0 +1,11 @@
+.item{
+    padding: 10px;
+    color: white;
+    border: 2px solid white;
+}
+.user_name_p{
+    text-align: center;
+}
+.total_price{
+    padding-left: 10px;
+}
